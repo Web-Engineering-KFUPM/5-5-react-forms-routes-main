@@ -30,23 +30,11 @@ jobs:
           echo "Running autograder..."
           node script/grade.cjs | tee grading_log.txt
 
-      - name: Show Grading Summary in Action Logs
-        run: |
-          echo ""
-          echo "===== GRADING SUMMARY ====="
-          if [ -f grading_report.txt ]; then
-            cat grading_report.txt
-          else
-            echo "No grading_report.txt found!"
-          fi
-          echo "==========================="
-          echo ""
-
       - name: Upload Grading Report as Artifact
         uses: actions/upload-artifact@v4
         with:
           name: grading-report
           path: |
-            grading_report.txt
-            grading_report.json
-            grading_log.txt
+            5-5-react-route-form/grading_report.txt
+            5-5-react-route-form/grading_report.json
+            5-5-react-route-form/grading_log.txt
