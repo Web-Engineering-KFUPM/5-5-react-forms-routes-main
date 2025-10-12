@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '18'
       - name: Make grader executable
-        run: chmod +x script/grade.cjs || true
+        run: chmod +x 5-5-react-route-form/script/grade.cjs || true
       - name: Get commit time
         id: commit
         run: |
@@ -28,4 +28,4 @@ jobs:
         env:
           COMMIT_TIME: ${{ steps.commit.outputs.commit_time }}
         run: |
-          node script/grade.cjs
+          5-5-react-route-form/script/grade.cjs
