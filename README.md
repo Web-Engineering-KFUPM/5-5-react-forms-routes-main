@@ -27,7 +27,7 @@ Before starting, read these Zybook sections carefully:
 - [**5.12 Forms (React)**](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/5/section/12)  
   Learn about controlled components and handling input changes in React.
 
-- [**5.13 Example: Todo List**](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/5/section/13)  
+- [**5.13 Example: Todo List (Optional)**](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/5/section/13)  
   Understand how to use state (`useState`) to manage form data dynamically.
 
 - [**5.14 Router**](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/5/section/14)  
