@@ -1,6 +1,11 @@
 ### React Lab: Student Registration Portal
 
-> **Note:** Follow the `App.jsx` file to implement the lab.
+> **Note:**
+> Please follow the `app.jsx` file to implement the TODOs.
+>
+> Please use app.jsx file to perform TODOs and follow the steps strictly to gain good marks in the assignment.  
+>  
+> **Due Date:** 2 March, 2026, **11:59 PM**
 
 ---
 

@@ -46,7 +46,7 @@
 //          import Registration from "./pages/Registration";
 //
 // 3) Add a simple navbar with NavLink items for "/", "/about", "/registration" inside the <div className="links">.
-//    HINT: <NavLink to="/" end className="navlink">PAGE_NAME/NavLink>
+//    HINT: <NavLink to="/" end className="navlink">PAGE_NAME</NavLink>
 //    / is only used for the home page, for other pages write their name in the to="" attribute, like /about.
 //
 // 4) Define <Routes> with three <Route> entries inside the <main className="container">:
