@@ -32,7 +32,7 @@
 // Note: To complete the TODO 2, first implement the TODO 1.
 //
 // ===========================
-// TODO #1: Apply React Router
+// TODO #1: Use app.jsx.jsx file. Apply React Router
 // ===========================
 //
 // Goal: Add routing for three pages: Home, About, Registration
@@ -61,7 +61,8 @@
 // - Don’t change any CSS.
 //
 // ================================================================
-// TODO #2: Add password & gender fields, make all fields required,
+// TODO #2: Use Registeration.jsx file.
+//          Add password & gender fields, make all fields required,
 //          and validate the email (must contain "@" and end with ".com").
 //          Finally, show the provided alert ONLY on successful submit.
 // ================================================================
