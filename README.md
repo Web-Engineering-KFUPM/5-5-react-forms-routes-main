@@ -5,7 +5,7 @@
 >
 > Please use App.jsx file to perform TODOs and follow the steps strictly to gain good marks in the assignment.  
 >  
-> **Due Date:** 2 March, 2026, **11:59 PM**(Asia/Riyadh)
+> **Due Date:** 2 March, 2026, **20:59 PM**(Riyadh)
 
 ---
 
